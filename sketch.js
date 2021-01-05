@@ -12,13 +12,13 @@ var input, button;
 function preload()
 {
   //load images here
-  hungryDog = loadImage("images/dogImg1.png");
-  happyDog = loadImage("images/dogImg.png");
-  bedroomIMG = loadImage("images/Bed Room.png");
-  gardenIMG = loadImage("images/Garden.png");
-  washroomIMG = loadImage("images/Wash Room.png");
-  sleepIMG = loadImage("images/Lazy.png");
-  runIMG = loadImage("images/running.png");
+  hungryDog = loadImage("dogImg1.png");
+  happyDog = loadImage("dogImg.png");
+  bedroomIMG = loadImage("Bed Room.png");
+  gardenIMG = loadImage("Garden.png");
+  washroomIMG = loadImage("Wash Room.png");
+  sleepIMG = loadImage("Lazy.png");
+  runIMG = loadImage("running.png");
 }
 
 function setup() {
