@@ -33,10 +33,10 @@ class Food {
         var x=80,y=100;
         
         imageMode(CENTER);
-        image(this.image, 720, 220, 70, 70);
-        milk = createSprite(720,720,70,70);
-        milk.addAnimation("milk",this.image);
-        milk.scale = 1;
+//         image(this.image, 720, 220, 70, 70);
+//         milk = createSprite(720,720,70,70);
+//         milk.addAnimation("milk",this.image);
+//         milk.scale = 1;
 
 
         if(this.foodStock != 0){
