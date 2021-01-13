@@ -22,7 +22,7 @@ function preload()
 }
 
 function setup() {
-  createCanvas(1200,500);
+  createCanvas(1000,500);
   database = firebase.database();
   
   foodObj = new Food();
